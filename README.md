@@ -7,7 +7,12 @@
 </div>
 
 ## Hello there 👋
-![Hello GIF](https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif)
+
+<div align="center">
+  
+  ![Hello GIF](https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif)
+  
+</div>
 
 <!--**BenjaminCorona/BenjaminCorona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
