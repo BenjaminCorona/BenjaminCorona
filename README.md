@@ -6,7 +6,8 @@
 <!--<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>-->
 </div>
 
-## Hi there 👋
+## Hello there 👋
+![Hello GIF](https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif)
 
 <!--**BenjaminCorona/BenjaminCorona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
