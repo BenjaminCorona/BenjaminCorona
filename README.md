@@ -1,3 +1,5 @@
+![Header](https://images.unsplash.com/photo-1614034178871-d038bce3b763?q=80&w=3884&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 <h1 align="center">Benjamín Corona </h1>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -30,11 +32,10 @@ Here are some ideas to get you started:
 
 
 
-![Header](https://your-image-url.com/header.png)
 
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Benjamin 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=tu_usuario&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=BenjaminCorona&color=blue)
 
 Soy un desarrollador web apasionado por la creación de aplicaciones web interactivas y de alto rendimiento. Me encanta aprender nuevas tecnologías y mejorar mis habilidades.
 
@@ -47,15 +48,20 @@ Soy un desarrollador web apasionado por la creación de aplicaciones web interac
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%23E34F26.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&color=blue)
+![Astro](https://img.shields.io/badge/Astro-%23E34F26.svg?style=for-the-badge&logo=astro&logoColor=white&color=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23E34F26.svg?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
+
 
 ## 📈 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=BenjaminCorona&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminCorona&layout=compact&theme=radical)
 
 ## 🌐 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu_usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/)
 [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
+
 
 ## 🛠️ Proyectos Destacados
 ### [Nombre del Proyecto 1](https://github.com/tu_usuario/proyecto1)
@@ -103,7 +109,4 @@ Escribo sobre mis experiencias y conocimientos en desarrollo web en [mi blog](ht
 
 ---
 
-![Footer](https://your-image-url.com/footer.png)
-```
-
-Asegúrate de reemplazar todos los `tu_usuario`, `tu_nombre`, `tu_correo@gmail.com`, y las URLs de las imágenes con tus propios datos y enlaces. ¡Con esto tendrás un README atractivo y completo para tu perfil de GitHub!
+![Footer](https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
