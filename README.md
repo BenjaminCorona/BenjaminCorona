@@ -43,7 +43,8 @@ Soy un desarrollador web apasionado por la creación de aplicaciones web interac
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+<!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)-->
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -62,7 +63,7 @@ Soy un desarrollador web apasionado por la creación de aplicaciones web interac
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/)
 [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
 
-
+<!--
 ## 🛠️ Proyectos Destacados
 ### [Nombre del Proyecto 1](https://github.com/tu_usuario/proyecto1)
 ![Proyecto 1](https://your-image-url.com/proyecto1.png)
@@ -71,19 +72,20 @@ Descripción breve del proyecto y sus características principales.
 ### [Nombre del Proyecto 2](https://github.com/tu_usuario/proyecto2)
 ![Proyecto 2](https://your-image-url.com/proyecto2.png)
 Descripción breve del proyecto y sus características principales.
+-->
+
 
 ## 🎉 Un poco sobre mí
 ```javascript
 const tuUsuario = {
-  nombre: "Tu Nombre",
-  ubicacion: "Tu Ciudad, País",
-  titulo: "Desarrollador Web",
-  lenguajes: ["JavaScript", "HTML", "CSS", "Python"],
-  hobbies: ["Leer", "Viajar", "Jugar Videojuegos"],
+  nombre: "Benjamin Corona Lara",
+  ubicacion: "Irapuato, Guanajuato",
+  tecnologías: ["JavaScript", "HTML", "CSS", "Tailwind", "Astro"],
+  hobbies: ["Leer", "Tocar instrumentos", "Jugar Videojuegos"],
   contacto: {
-    email: "tu_correo@gmail.com",
-    linkedin: "https://www.linkedin.com/in/tu_usuario",
-    twitter: "https://twitter.com/tu_usuario"
+    email: "",
+    linkedin: "https://www.linkedin.com/in/",
+    twitter: "https://twitter.com/"
   }
 };
 ```
@@ -91,21 +93,26 @@ const tuUsuario = {
 ## 🎥 En Acción
 ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
+<!---
 ## 📝 Blog
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/tu_usuario)  
 Escribo sobre mis experiencias y conocimientos en desarrollo web en [mi blog](https://dev.to/tu_usuario).
 
 ## ☕ Apóyame
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tu_usuario)
+-->
+
 
 ---
 
+<!--
 ### 🌟 Referencias y Recursos
 
 - [Astro Docs](https://docs.astro.build/)
 - [JavaScript Info](https://javascript.info/)
 - [CSS Tricks](https://css-tricks.com/)
 - [MDN Web Docs](https://developer.mozilla.org/)
+-->
 
 ---
 
