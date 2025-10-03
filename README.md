@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  ![Hello GIF](https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif)
+  ![Hello GIF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq3JX-TxIxuhz6Z1H7j2bKZGSQQlDlInueDA&s)
   
 </div>
 
