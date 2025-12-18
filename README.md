@@ -1,119 +1,133 @@
-![Header](https://camo.githubusercontent.com/6d91105bc8f65727b2f1f8b1c660e059c84482bc04ba7be85b3ad90c7cdf7a10/68747470733a2f2f696d616765732e756e73706c6173682e636f6d2f70686f746f2d313631343033343137383837312d6430333862636533623736333f713d383026773d33383834266175746f3d666f726d6174266669743d63726f702669786c69623d72622d342e302e3326697869643d4d3377784d6a4133664442384d48787761473930627931775957646c664878386647567566444238664878386641253344253344)
-
-<h1 align="center">Benjamín Corona </h1>
-<div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://zzetao.github.io/awesome-github-profile/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!--<img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/>-->
-<!--<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>-->
-</div>
-
-## Hello there 👋
+<!--
+  Hi there! I'm Benjamin Corona.
+  This README was generated to be professional, impressive, and unique.
+-->
 
 <div align="center">
   
-  ![Hello GIF](https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif)
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Benjamin+Corona;Full+Stack+Developer;Mobile+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/benjamincorona/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:benjamincoronalara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/benjacoron_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
   
+  <br/>
+  <br/>
+  
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=BenjaminCorona&style=flat-square&color=2094F3&label=Profile+Views" alt="Profile Views"/>
+
 </div>
 
-<!--**BenjaminCorona/BenjaminCorona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-# ¡Hola! Soy Benjamin 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=BenjaminCorona&color=blue)
-
-Soy un desarrollador web apasionado por la creación de aplicaciones web interactivas y de alto rendimiento. Me encanta aprender nuevas tecnologías y mejorar mis habilidades.
-
-## 🚀 Tecnologías y Herramientas
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%23E34F26.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&color=blue)
-![Astro](https://img.shields.io/badge/Astro-%23E34F26.svg?style=for-the-badge&logo=astro&logoColor=white&color=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23E34F26.svg?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
-
-
-## 📈 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=BenjaminCorona&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminCorona&layout=compact&theme=radical)
-
-## 🌐 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/)
-[![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
-
-<!--
-## 🛠️ Proyectos Destacados
-### [Nombre del Proyecto 1](https://github.com/tu_usuario/proyecto1)
-![Proyecto 1](https://your-image-url.com/proyecto1.png)
-Descripción breve del proyecto y sus características principales.
-
-### [Nombre del Proyecto 2](https://github.com/tu_usuario/proyecto2)
-![Proyecto 2](https://your-image-url.com/proyecto2.png)
-Descripción breve del proyecto y sus características principales.
--->
-
-
-## 🎉 Un poco sobre mí
-```javascript
-const tuUsuario = {
-  nombre: "Benjamin Corona Lara",
-  ubicacion: "Irapuato, Guanajuato",
-  tecnologías: ["JavaScript", "HTML", "CSS", "Tailwind", "Astro"],
-  hobbies: ["Leer", "Tocar instrumentos", "Jugar Videojuegos"],
-  contacto: {
-    email: "",
-    linkedin: "https://www.linkedin.com/in/",
-    twitter: "https://twitter.com/"
-  }
-};
-```
-
-## 🎥 En Acción
-![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
-<!---
-## 📝 Blog
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/tu_usuario)  
-Escribo sobre mis experiencias y conocimientos en desarrollo web en [mi blog](https://dev.to/tu_usuario).
-
-## ☕ Apóyame
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tu_usuario)
--->
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
 
 ---
 
-<!--
-### 🌟 Referencias y Recursos
+### 👨‍💻 About Me
 
-- [Astro Docs](https://docs.astro.build/)
-- [JavaScript Info](https://javascript.info/)
-- [CSS Tricks](https://css-tricks.com/)
-- [MDN Web Docs](https://developer.mozilla.org/)
--->
+I am a passionate **Full Stack & Mobile Developer**. I specialize in building high-performance, interactive web applications and cross-platform mobile apps. I love turning complex problems into elegant, user-friendly solutions and exploring new technologies.
+
+- 🔭 I’m currently working on **Innovative Web & Mobile Solutions**
+- 🌱 I’m currently learning **Advanced AI Integration & System Architecture**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Python, Flutter, and Modern Web Architecture**
 
 ---
 
-![Footer](https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+### 🛠️ Tech Stack
+
+<div align="center">
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
+  <br/>
+
+  <!-- Mobile -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+
+  <br/>
+
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  
+  <br/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BenjaminCorona&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Benjamin's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminCorona&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- Streak Stats (Alternative Provider) -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=BenjaminCorona&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenjaminCorona&theme=tokyonight" alt="Benjamin's Activity Graph" />
+</div>
+
+<br/>
+
+<!-- Detailed Summary -->
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenjaminCorona&theme=tokyonight" alt="Profile Details" />
+</div>
+
+---
+
+### 🧩 Random Dev Joke
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <p>© 2025 Benjamin Corona</p>
+</div>
